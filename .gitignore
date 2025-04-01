@@ -5,6 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+.venv
+.vemv/
+.idea
+.idea/
+/idea
+/venv
 
 # Distribution / packaging
 .Python
